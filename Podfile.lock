@@ -1,0 +1,16 @@
+PODS:
+  - Euro-IOS (1.9.6)
+
+DEPENDENCIES:
+  - Euro-IOS
+
+SPEC REPOS:
+  trunk:
+    - Euro-IOS
+
+SPEC CHECKSUMS:
+  Euro-IOS: 73630d1f2fa2aa20ffffc038a5d7aee47a1d23f7
+
+PODFILE CHECKSUM: ad86c0ec4f94a2f9c0bf9d430ad9fe3e53bf9a0d
+
+COCOAPODS: 1.9.1
